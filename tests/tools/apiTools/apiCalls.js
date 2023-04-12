@@ -17,7 +17,7 @@ const apiWrapper={
 
         const x={
             "id": 0,
-            "category": {
+            "category" : {
                 "id": 0,
                 "name": "slow2 animels"
             },
